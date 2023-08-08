@@ -5,28 +5,121 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="680df60c-9604-455c-9800-c25d197c01c7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/abc/Aba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/abc/Aba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/abc/Abc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/abc/Abc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/abc/Bcd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/abc/Bcd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/bcd/Cdb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/bcd/Cdb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/ccc/Abcd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/ccc/Abcd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/kurs/service/PhaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/service/PhaseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/kurs/service/PhaseServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/kurs/service/PhaseServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task" beforeDir="false" afterPath="$PROJECT_DIR$/task" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2TCNuvcBBM973PXsFiv3fMvLfyc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/micha/IdeaProjects/JaCoCo/target/jacoco.exec&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.kurs.service" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PhaseServiceTest.shouldReturnAreEqualAndLongerThan5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JaCoCo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kurs.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.kurs.service" />
+      <option name="MAIN_CLASS_NAME" value="pl.kurs.service.PhaseServiceTest" />
+      <option name="METHOD_NAME" value="shouldReturnAreEqualAndLongerThan5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhaseServiceTest.shouldReturnFirstIsLonger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JaCoCo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kurs.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.kurs.service" />
+      <option name="MAIN_CLASS_NAME" value="pl.kurs.service.PhaseServiceTest" />
+      <option name="METHOD_NAME" value="shouldReturnFirstIsLonger" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhaseServiceTest.shuldReturnSecondIsLonger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JaCoCo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kurs.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.kurs.service" />
+      <option name="MAIN_CLASS_NAME" value="pl.kurs.service.PhaseServiceTest" />
+      <option name="METHOD_NAME" value="shuldReturnSecondIsLonger" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PhaseServiceTest.shouldReturnAreEqualAndLongerThan5" />
+        <item itemvalue="JUnit.PhaseServiceTest.shuldReturnSecondIsLonger" />
+        <item itemvalue="JUnit.PhaseServiceTest.shouldReturnFirstIsLonger" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,5 +130,8 @@
       <updated>1690543330524</updated>
     </task>
     <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="../../../../IdeaProjects/JaCoCo/target/jacoco.exec" NAME="jacoco.exec" MODIFIED="1690543984584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

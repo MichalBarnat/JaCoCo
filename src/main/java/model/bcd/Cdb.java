@@ -1,2 +1,4 @@
-package model.bcd;public class Cdb {
+package model.bcd;
+
+public class Cdb {
 }

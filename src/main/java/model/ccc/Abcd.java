@@ -1,2 +1,4 @@
-package model.abc.ccc;public class Abcd {
+package model.ccc;
+
+public class Abcd {
 }

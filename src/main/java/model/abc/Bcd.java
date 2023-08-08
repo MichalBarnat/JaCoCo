@@ -1,2 +1,4 @@
-package model.abc;public class Bcd {
+package model.abc;
+
+public class Bcd {
 }

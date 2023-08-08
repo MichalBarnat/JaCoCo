@@ -1,2 +1,4 @@
-package model.abc;public class Aba {
+package model.abc;
+
+public class Aba {
 }
